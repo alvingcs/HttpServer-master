@@ -4,7 +4,7 @@ import threading
 import queue
 from HttpHead import HttpRequest
 
-print("112asdfas")
+print("112asdfa阿斯蒂芬s")
 # 每个任务线程
 class WorkThread(threading.Thread):
     def __init__(self, work_queue):
